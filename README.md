@@ -5,3 +5,7 @@ This is my first Javascript project. This calculator can calculate basic calcula
 ## Subheader
 
 Testing Git
+
+## Local Development
+
+1. Open index.html in your browser
